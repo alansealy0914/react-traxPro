@@ -1,2 +1,2 @@
 # react-traxPro
-Commercial freight carrier management tool
+Commercial freight-carrier management tool
